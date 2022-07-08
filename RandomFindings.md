@@ -1,19 +1,66 @@
 # 🎊 Random Findings on the Internet 🎊
 In this document I'm going to compile a list of various helpful or interesting things I found on the internet.
 
-## 🔧 Helpful Stuff
-- [**Dot Paper Generator**](http://sethest.dx.am/dot-paper-generator/)  
+**Legend:** 🔧 _helpful_ stuff | 🤓 _interesting_ stuff | 🗳 _political_ stuff | 🤣 _fun_ stuff | 🌷 _beautiful/design_ stuff | ❓ _random_ stuff | 🇩🇪 German website
+
+## 💻 Technology and Computers
+- [**The Noun Project**](https://thenounproject.com/) 🔧🌷  
+  Ever searched for a pictogram that represents a thing or concept? This is your go-to website for finding those.
+  Just enter the word youre searching an icon for and hundreds of icons will appear.
+  (Also check out [my own profile](https://thenounproject.com/johannes-foto/)!)
+- [**Dot Paper Generator**](http://sethest.dx.am/dot-paper-generator/) 🔧  
   Like writing on dot paper but can't seem to find any that suits all your needs?
   Here you go: The _Dot Paper Generator_ does just that - it generates LaTeX source code using the TikZ package.
   (Also see the original [Reddit post](https://www.reddit.com/r/fountainpens/comments/500n51/dot_paper_generator/).)
-- **Windows 11 style PDF icon**  
+- **Windows 11 style PDF icon** 🔧🌷  
   Using Firefox or Chrome as your default PDF viewer and being annoyed by the default file icon?
   Check out this article on [how to change the standard PDF icon](https://www.winhelponline.com/blog/set-custom-icon-pdf-files-firefox-default-pdf-viewer/).
   Also, you can download my Windows 11 style ICO file [here](https://drive.google.com/drive/folders/1M0DKC9jzVYE_8uIAW32szgGXI69m_Sqk?usp=sharing).  
-  ![Windows 11 style PDF icon](https://lh3.googleusercontent.com/u/0/d/1akaX4_O0hzfcOfRXlvacNLlJ79GU9ZSo=w250-h238-p-k-nu-iv1)
+  ![Windows 11 style PDF icon](https://lh3.googleusercontent.com/fife/AAWUweVEIjELZ1mgbNbaXR0KTSl2ecAkLmsvQowHF8ZsN0LK0lAq_CvTMV1RMq97VaMQ26HYLKbkyptWck-WdVEtwjLaLq1IM8sf8RQxL-NboRlRMDJX5ZDsaea5hp4o1dPz37kQe7Gy7ETJOkNckTGi7SHDN1iG3IECwqyil0mZcMp6IeHrlcvC6KgBAHD9pOqx9aSOkDbQzUF_FcUbRrd7PumVYcba05AC9sdn4-d57dipHIAo5HLO3OjIV2DnuYzU6-A9EaqQ54joHWWPEcEgUm-3Z2oKRWa_ZtNJMLoLjw3roTmRrZnaQC-OO_5LYShW5eX5jOAy7gSo0it5Nf4ChGu8jq3V-2HWm2sACXbHA5lthjR0w1TY8lhOJRH_YrlLayo7j9VK8OZmDDcgksphVxgnLOzUJhUuZJbtmOhUMTtEKoNL_EbC7jyo0hE4kWnyaA1bhWLj7aVzNOzLANBxEwQpVFtTKThyPMFK6qhombUsvdvRAtD49e3zim6GlTiOZBRCb3YNa5A8G7U_PcNM5QKeFQCzwurmd78WkYr-pZ6x0nwKGkI_dzT2mKezV4ASiPSHC5ZaJqvFpaM6H9uc6fBlOfQ0y4vJCdOkFs_qo6-tLlzDsAIGcHX3yGoPNfTGWHymY1ABMu3Ifjg165azYuAEDMlEBFpfaZJpzpUtoO--IQE49rMQzriinkaZF9ozPFw5bCHbZGulFSExIhMn-LmqYWYqRsx9ZON6lBZsdI0gXpwwgraxU9s2LFvQ6aT233p_m2gVryf0sHfrq_AE7lfNWAyXYE61GDpxJdoXjEM0YlK0MgnUmwFTChC9OWE91abeDlDllSIHKWu9WovsYy6HbTuL8HqNJqbMsFuvZ9zErhLUX6vK1XnO01xI2wKXqF1HKUNVOi_x4CDwFjSD2Yhxbe53Av7_lOg8BDZEpxmfjVlmG1yFTF-okesvswA0ClxkQohawfKKqlSMLIK_jh7T2pLfgL9fbF7z94uvzC5YwGadLfZSfWFJaeXWK5B2KNtWM_fSp_E-00Lii0fB34jYyRD8LA9s_8InaqGRv0X8PxDkQaOI6FGb-QOXJhDz1jpDJECaDj9u1_fpockL4wVgV1xO8SXhnG0wm9mEI1oj0U7f2e9sNld-pnAassBoLCuqRUT5oUyLIT2zePYNl7ND7ORBFbKTr9pq5lbLxCVaJ5y1OcioXk3IZuJrEChe7iBDsvOnYLp3CtA0jGrqzDEnutrLfKtuW8eTxY-pckyyd4xVwQ5ep__O9mz4nYamTmDr9Jk=w32-h32-p-k-nu)
+- [**Emojipedia**](https://emojipedia.org/) ❓  
+  Its a wikipedia for emojis - that's all. You can view a [random emoji](https://emojipedia.org/random/) or catch up with the [newest emojis](https://emojipedia.org/new/). Also, if you're rally into emojis, check out Tom Scott's [Emojli](https://www.youtube.com/watch?v=lIFE7h3m40U) project.
 
-## 🤓 Interesting Stuff
-Nothing in here yet.
+## 👩‍🎓 Science and Education
+- [**#IchBinHanna**](https://ichbinhanna.wordpress.com/) 🗳🤓🇩🇪  
+  German research fellows were outraged when the Federal Ministry of Education and Research (BMBF) released a [video](https://web.archive.org/web/20210611145015/https://www.bmbf.de/de/media-video-16944.html) "explaining" an old law limiting the time one can be employed at German Universities (Wissenschaftszeitvertragsgesetz, WissZeitVG).
+  In it, a cartoon character named Hanna seems to be very happy about the law, which isn't at all true for most researchers in Germany.
+  Hence, some researchers started to publicly expose their poor working conditions on Twitter and the hashtag [#IchBinHanna](https://twitter.com/hashtag/IchBinHanna) (I am Hanna) went viral.
+- [**TVStud**](https://tvstud.de/) 🗳🤓🇩🇪  
+  Similarly to the [#IchBinHanna](https://ichbinhanna.wordpress.com/) movement, students who work at universities in Germany are rising up and demand better working conditions as well as collective labour agreements.
+  Despite many students working overtime and not getting sick pay and paid leave, they're only earning ever so slightly more than minimum wage.  
+  Many believe (me included) that this doesn't do justice to the important work of student assistants in research and teaching.
 
-## 🤣 Fun Stuff
-Still nothing to be found here.
+## 🚂 Travelling with Deutsche Bahn
+- [**BahnMining**](https://www.dkriesel.com/blog/2019/1229_video_und_folien_meines_36c3-vortrags_bahnmining) 🤓🤣🔧🇩🇪  
+  Did you ever have to change the train at Mannheim central station and didn't catch your connecting train? Wonder why?
+  David Kriesel has the answer: Its statistics, and big data.
+  In his talk, he takes you on a journey deep down the rabbit hole of travelling by train in Germany - from a data specialist's perspective - and provides some useful tips on how to travel more stress free. 
+- [**Der Lokvogel**](https://sz-magazin.sueddeutsche.de/tag/der-lokvogel-bahnfahrerkolumne) 🤓🤣🔧🇩🇪  
+  Frederik Jötten frequently writes about travelling by train (particularily in Germany) and the problems that arise trying to simply get from A to B.
+  He geniously converts his anger and frustration into, in my opinion, very well written, easy to read and extremely funny articles.
+  While giving the readers the feeling of being fellow sufferers, he also manages to sprinkle in a lot of useful knowledge for mastering the art of travelling by train in Germany.
+- [**Marudor**](https://marudor.de/) 🔧🇩🇪  
+  Your train is late but the information on the platform display or in the DB app aren't helpful?
+  On Marudor.de you will get more insights on why the train is stuck. ([View project on GitHub](https://github.com/marudor/BahnhofsAbfahrten).)
+
+## 💬 Cartoons
+- [**PHD Comics**](https://phdcomics.com/) 🤣  
+  One of my favourite comics about - you guessed it - working in research.
+  Hint: The Website also offers a _stealth mode_ that quickly turns the comic into a "[research paper](https://phdcomics.com/archive_journal.php?n=2048)" (Just click the _Emergency Button_ below the picture).
+- [**Dilbert**](https://dilbert.com/) 🤣  
+  In this daily comic series, our protagonist Dilbert works for a big corporation.
+  And thus, we encounter the all too familiar situations that arise when the manager of the manager of the manager simply has no idea of what matters to an engineer.
+- [**The New Yorker Cartoons**](https://www.newyorker.com/cartoons/issue-cartoons) 🤣🗳  
+  I mean, the New Yorker cartoons are just classic. In their archive you'll find all the cartoons from as far back as July 28, 2014.
+  
+## 💡 To-Do/Ideas
+- Helpful science tools by [Biophysics Graduate Club](https://sites.google.com/view/biophysics-graduate-club/resources) and [Stephen Tierney](https://leadinglearner.me/2021/03/14/5-evidenced-based-papers-all-teachers-should-read-updated/)
+- Predatory journals ([Beall's List](https://beallslist.net/)) as discussed in [Nature](https://www.nature.com/articles/d41586-019-03759-y)
+- [Matt Henderson's math animations](https://twitter.com/matthen2)
+- [James O'Donoghue's planet animations](https://twitter.com/physicsJ)
+- Flight Radar and sattelite counterpart
+- Sci-Hub
+- Peer reviewed Wikipedia
+- The [**Internet Archive**](https://archive.org/) and [**Wayback Machine**](https://web.archive.org/)
+- Different interesting image databases, e. g. the [LIFE photo archive](http://images.google.com/hosted/life), the [Library of Congress](https://www.loc.gov/photos/collections/), [NASA Image and Video Library](https://images.nasa.gov/), [Bundesarchiv](https://www.bild.bundesarchiv.de/dba/de/), [Deutschen Fotothek](https://deutschefotothek.de/)
+- Where to find **royality free pictures**
