@@ -79,3 +79,4 @@ In this document I'm compiling a list of various helpful or interesting things I
 - [**Library of Babel**](https://libraryofbabel.info/) - a online library containing 10^4677 books with every possible permutation of up to 3200 characters, e. g. [Lorem Ipsum](https://libraryofbabel.info/bookmark.cgi?lorem_ipsum)
 - [**Tableau Public**](https://public.tableau.com/s/), e. g. [material selector](https://www.adambender.info/material-selector)
 - **Academic writing**: [Chris A. Mack](https://spie.org/samples/9781510619142.pdf), [Mike Ashby](https://www.ansys.com/academic/educators/education-resources/guide-write-paper), ...
+- [**Open Source Etiquette**](https://teejeetech.medium.com/etiquette-in-open-source-projects-f302b6e19c38)
