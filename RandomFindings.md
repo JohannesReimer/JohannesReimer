@@ -80,3 +80,4 @@ In this document I'm compiling a list of various helpful or interesting things I
 - [**Tableau Public**](https://public.tableau.com/s/), e. g. [material selector](https://www.adambender.info/material-selector)
 - **Academic writing**: [Chris A. Mack](https://spie.org/samples/9781510619142.pdf), [Mike Ashby](https://www.ansys.com/academic/educators/education-resources/guide-write-paper), ...
 - [**Open Source Etiquette**](https://teejeetech.medium.com/etiquette-in-open-source-projects-f302b6e19c38)
+- [**Free Adobe Software**](https://archive.org/details/Adobe-CS2) - Adobe Creative Suite 2
