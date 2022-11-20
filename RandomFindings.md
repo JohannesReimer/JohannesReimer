@@ -41,6 +41,9 @@ In this document I'm compiling a list of various helpful or interesting things I
   Similarly to the [#IchBinHanna](https://ichbinhanna.wordpress.com/) movement, students who work at universities in Germany are rising up and demand better working conditions as well as collective labour agreements.
   Despite many students working overtime and not getting sick pay and paid leave, they're only earning ever so slightly more than minimum wage.  
   Many believe (me included) that this doesn't do justice to the important work of student assistants in research and teaching.
+- [**Iceberger**](https://joshdata.me/iceberger.html) 🤓🤣
+  Icebergs in movies and television are often portraied as tall structures, having a small peak above sea level and extending deep into the sea. But that's not how it really works.
+  At this website you can draw an iceberg and see how it floats in the water correctly (at least most of the times).
 
 ## 🚂 Travelling with Deutsche Bahn
 - [**BahnMining**](https://www.dkriesel.com/blog/2019/1229_video_und_folien_meines_36c3-vortrags_bahnmining) 🤓🤣🔧🇩🇪  
