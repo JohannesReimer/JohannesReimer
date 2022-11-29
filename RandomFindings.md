@@ -71,6 +71,7 @@ In this document I'm compiling a list of various helpful or interesting things I
 ## 💡 To-Do/Ideas
 - **Helpful science tools** by [Biophysics Graduate Club](https://sites.google.com/view/biophysics-graduate-club/resources) and [Stephen Tierney](https://leadinglearner.me/2021/03/14/5-evidenced-based-papers-all-teachers-should-read-updated/)
 - **Beautiful maths and physics animations** by [Matt Henderson](https://twitter.com/matthen2) and [James O'Donoghue](https://twitter.com/physicsJ)
+- Extremely funny Instagram "[thingsihavedrawn](https://instagram.com/thingsihavedrawn)" (children's sketches as photorealistic renders)
 - **Tracking websites** for [airplanes](https://www.flightradar24.com/47.82,13.17/6), [ships](https://www.vesselfinder.com/) and [sattellites](http://apps.agi.com/SatelliteViewer/) by [Ansys Government Initiatives](https://www.agi.com/analytical-services) (the latter is currently not working)
 - [**Scholarpedia**](http://www.scholarpedia.org) - a Wikipedia-style peer-reviewed open-access encyclopedia
 - [**Google Scholar**](https://scholar.google.de/) and [**BibItNow!**](https://github.com/Langenscheiss/bibitnow) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/bibitnow/)/[Chrome](https://chrome.google.com/webstore/detail/bibitnow/bmnfikjlonhkoojjfddnlbinkkapmldg))
