@@ -1,5 +1,5 @@
 # Hi, I’m Johannes. 👋
-- 🧑‍🎓 I'm a civil engineer (Dipl.-Ing.) and researcher at TU Dresden [Institute of Concrete Structures](https://tu-dresden.de/bu/bauingenieurwesen/imb).
+- 🧑‍🎓 I'm a civil engineer (Dipl.-Ing.) and research associate at TU Dresden [Institute of Concrete Structures](https://tu-dresden.de/bu/bauingenieurwesen/imb).
 - 🌉 Currently, I’m researching historical prestressed concrete bridges and how to preserve our aging infrastructure.
 - 🧑‍💻 As part of my work, I use [Python](https://www.python.org/) quite often, but also gained some experience with Linux, [MATLAB](https://www.mathworks.com/products/matlab.html)/[Octave](https://www.gnu.org/software/octave/) and [Fortran](https://fortran-lang.org/) during my studies.
 - 📄 As is usual inside research, I also frequently use [LaTeX](https://www.latex-project.org/), both online on [Overleaf](https://de.overleaf.com/) and offline, using [TeX Live](https://www.tug.org/texlive/) with [Atom](https://atom.io/).
